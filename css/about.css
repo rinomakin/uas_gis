@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.about {
+  background: #e4d7d7;
+  height: 100vh;
+}
+.box {
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.box-1 {
+  display: flex;
+  padding: 0 50px;
+  align-items: center;
+}
+.box-1 p {
+  width: 50%;
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
